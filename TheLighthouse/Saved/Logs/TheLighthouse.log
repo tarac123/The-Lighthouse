@@ -4421,3 +4421,554 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.02-22.39.25:786][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.02-22.39.25:789][341]AssetCheck: /Game/LightHouse_world Validating asset
 [2025.12.02-22.39.25:823][341]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.02-22.40.36:088][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.02-22.40.36:090][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LightHouse_world' took 0.022
+[2025.12.02-22.40.36:092][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Examples_038_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:194][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Examples_038_002._Examples_038_002]
+[2025.12.02-22.40.36:194][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Examples_038_002]
+[2025.12.02-22.40.36:212][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Examples_038_002_Auto1
+[2025.12.02-22.40.36:212][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/_Examples_038_002_Auto1A0D99F0B4DE9E7F7144870A9462B8F94.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/_Examples_038_002_Auto1.uasset'
+[2025.12.02-22.40.36:212][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Advanced_Glass_With_Imperfections] ([1] browsable assets)...
+[2025.12.02-22.40.36:230][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Advanced_Glass_With_Imperfections.Advanced_Glass_With_Imperfections]
+[2025.12.02-22.40.36:230][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Advanced_Glass_With_Imperfections]
+[2025.12.02-22.40.36:242][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Advanced_Glass_With_Imperfections_Auto1
+[2025.12.02-22.40.36:242][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Advanced_Glass_With_ImperfectionB2BA6E3345EE33EF25F9958E0E091A01.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Advanced_Glass_With_Imperfections_Auto1.uasset'
+[2025.12.02-22.40.36:243][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Brick_003] ([1] browsable assets)...
+[2025.12.02-22.40.36:251][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Brick_003.Brick_003]
+[2025.12.02-22.40.36:251][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Brick_003]
+[2025.12.02-22.40.36:262][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Brick_003_Auto1
+[2025.12.02-22.40.36:263][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Brick_003_Auto13A2D338C474713C28D58EF96BB71020C.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Brick_003_Auto1.uasset'
+[2025.12.02-22.40.36:263][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Brick_Wall_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:272][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Brick_Wall_001.Brick_Wall_001]
+[2025.12.02-22.40.36:272][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Brick_Wall_001]
+[2025.12.02-22.40.36:285][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Brick_Wall_001_Auto1
+[2025.12.02-22.40.36:285][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Brick_Wall_001_Auto10F301A5345B65A0996D80D95CF15BEC2.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Brick_Wall_001_Auto1.uasset'
+[2025.12.02-22.40.36:285][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bricks] ([1] browsable assets)...
+[2025.12.02-22.40.36:294][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bricks.Bricks]
+[2025.12.02-22.40.36:294][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bricks]
+[2025.12.02-22.40.36:294][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bricks" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Bricks_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:306][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bricks_Auto1
+[2025.12.02-22.40.36:306][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Bricks_Auto1FE77BDD546C299E96BC1C2BAE52FEE3D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Bricks_Auto1.uasset'
+[2025.12.02-22.40.36:307][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Light_iron] ([1] browsable assets)...
+[2025.12.02-22.40.36:315][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Light_iron.Light_iron]
+[2025.12.02-22.40.36:315][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Light_iron]
+[2025.12.02-22.40.36:328][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Light_iron_Auto1
+[2025.12.02-22.40.36:328][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Light_iron_Auto10F9807904FA14592C10FD3B399122375.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Light_iron_Auto1.uasset'
+[2025.12.02-22.40.36:329][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/metal_dark_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:338][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/metal_dark_002.metal_dark_002]
+[2025.12.02-22.40.36:338][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/metal_dark_002]
+[2025.12.02-22.40.36:349][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/metal_dark_002_Auto1
+[2025.12.02-22.40.36:350][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/metal_dark_002_Auto15DB6324A47F8FC70BDCBD28327E4D124.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/metal_dark_002_Auto1.uasset'
+[2025.12.02-22.40.36:350][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rusty_metal] ([1] browsable assets)...
+[2025.12.02-22.40.36:359][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Rusty_metal.Rusty_metal]
+[2025.12.02-22.40.36:359][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rusty_metal]
+[2025.12.02-22.40.36:372][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Rusty_metal_Auto1
+[2025.12.02-22.40.36:372][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Rusty_metal_Auto14F756DA544FB67D7489ADE8E63E76FD1.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Rusty_metal_Auto1.uasset'
+[2025.12.02-22.40.36:373][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Slate_Roof_Tiles_Natural_Edgewear] ([1] browsable assets)...
+[2025.12.02-22.40.36:382][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Slate_Roof_Tiles_Natural_Edgewear.Slate_Roof_Tiles_Natural_Edgewear]
+[2025.12.02-22.40.36:382][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Slate_Roof_Tiles_Natural_Edgewear]
+[2025.12.02-22.40.36:393][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Slate_Roof_Tiles_Natural_Edgewear_Auto1
+[2025.12.02-22.40.36:393][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Slate_Roof_Tiles_Natural_Edgewea670ED1D64F667D8584131983CE1685D3.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Slate_Roof_Tiles_Natural_Edgewear_Auto1.uasset'
+[2025.12.02-22.40.36:394][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Window_Parts_Color] ([1] browsable assets)...
+[2025.12.02-22.40.36:402][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Window_Parts_Color.Window_Parts_Color]
+[2025.12.02-22.40.36:402][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Window_Parts_Color]
+[2025.12.02-22.40.36:412][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Window_Parts_Color_Auto1
+[2025.12.02-22.40.36:412][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Window_Parts_Color_Auto18C8FE28A466BE5CB729F4D8A2B858902.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Window_Parts_Color_Auto1.uasset'
+[2025.12.02-22.40.36:414][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/wood_clear] ([1] browsable assets)...
+[2025.12.02-22.40.36:421][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/wood_clear.wood_clear]
+[2025.12.02-22.40.36:421][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/wood_clear]
+[2025.12.02-22.40.36:433][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/wood_clear_Auto1
+[2025.12.02-22.40.36:433][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/wood_clear_Auto186DD83124BCC44DC352A8B912358F530.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/wood_clear_Auto1.uasset'
+[2025.12.02-22.40.36:434][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:442][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube_001.Cube_001]
+[2025.12.02-22.40.36:442][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_001]
+[2025.12.02-22.40.36:442][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_001" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:453][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_001_Auto1
+[2025.12.02-22.40.36:453][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_001_Auto1725DEA93465750AD09A49F9AC4960588.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_001_Auto1.uasset'
+[2025.12.02-22.40.36:454][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Glass_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:461][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Glass_001.Glass_001]
+[2025.12.02-22.40.36:461][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Glass_001]
+[2025.12.02-22.40.36:474][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Glass_001_Auto1
+[2025.12.02-22.40.36:474][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Glass_001_Auto1666D81844604A75E8C36D19052AEA5F2.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Glass_001_Auto1.uasset'
+[2025.12.02-22.40.36:477][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Circle] ([1] browsable assets)...
+[2025.12.02-22.40.36:488][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Circle.Circle]
+[2025.12.02-22.40.36:488][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Circle]
+[2025.12.02-22.40.36:488][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Circle" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Circle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:507][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Circle_Auto1
+[2025.12.02-22.40.36:507][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Circle_Auto14E73A0B64FC97511C04053AA019F79ED.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Circle_Auto1.uasset'
+[2025.12.02-22.40.36:508][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vinyl_Siding_PBR] ([1] browsable assets)...
+[2025.12.02-22.40.36:517][622]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Vinyl_Siding_PBR.Vinyl_Siding_PBR]
+[2025.12.02-22.40.36:517][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vinyl_Siding_PBR]
+[2025.12.02-22.40.36:529][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Vinyl_Siding_PBR_Auto1
+[2025.12.02-22.40.36:529][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Vinyl_Siding_PBR_Auto1157CA74D425155C6F7CF3787D2BF280D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Vinyl_Siding_PBR_Auto1.uasset'
+[2025.12.02-22.40.36:530][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Circle_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:538][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Circle_001.Circle_001]
+[2025.12.02-22.40.36:538][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Circle_001]
+[2025.12.02-22.40.36:553][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Circle_001_Auto1
+[2025.12.02-22.40.36:553][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Circle_001_Auto188A9E0D84E5B86E8F5C33283B85FD47F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Circle_001_Auto1.uasset'
+[2025.12.02-22.40.36:554][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Circle_003] ([1] browsable assets)...
+[2025.12.02-22.40.36:562][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Circle_003.Circle_003]
+[2025.12.02-22.40.36:562][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Circle_003]
+[2025.12.02-22.40.36:576][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Circle_003_Auto1
+[2025.12.02-22.40.36:576][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Circle_003_Auto1299AF98646C9107534E11980F1CA97A0.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Circle_003_Auto1.uasset'
+[2025.12.02-22.40.36:576][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Circle_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:585][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Circle_002.Circle_002]
+[2025.12.02-22.40.36:585][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Circle_002]
+[2025.12.02-22.40.36:608][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Circle_002_Auto1
+[2025.12.02-22.40.36:608][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Circle_002_Auto147DE087D46A098672E3C65ADBE9FF87A.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Circle_002_Auto1.uasset'
+[2025.12.02-22.40.36:610][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_004] ([1] browsable assets)...
+[2025.12.02-22.40.36:619][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube_004.Cube_004]
+[2025.12.02-22.40.36:619][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_004]
+[2025.12.02-22.40.36:619][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_004" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_004_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:632][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_004_Auto1
+[2025.12.02-22.40.36:632][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_004_Auto18B30E70B4BE4112DE2E2DC998D74A0C5.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_004_Auto1.uasset'
+[2025.12.02-22.40.36:633][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:642][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube_002.Cube_002]
+[2025.12.02-22.40.36:642][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_002]
+[2025.12.02-22.40.36:642][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_002" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_002_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:654][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_002_Auto1
+[2025.12.02-22.40.36:654][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_002_Auto108B57BDF431B7B41745B3D856D214343.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_002_Auto1.uasset'
+[2025.12.02-22.40.36:656][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube] ([1] browsable assets)...
+[2025.12.02-22.40.36:664][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube.Cube]
+[2025.12.02-22.40.36:664][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube]
+[2025.12.02-22.40.36:664][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:679][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_Auto1
+[2025.12.02-22.40.36:679][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_Auto1C9C2B5CB4426EF98F7ECA0898A0A45A0.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_Auto1.uasset'
+[2025.12.02-22.40.36:681][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_003] ([1] browsable assets)...
+[2025.12.02-22.40.36:690][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube_003.Cube_003]
+[2025.12.02-22.40.36:690][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_003]
+[2025.12.02-22.40.36:690][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_003" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_003_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:702][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_003_Auto1
+[2025.12.02-22.40.36:702][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_003_Auto1D72CA3944A6CB4F6060FA2A31E4707DE.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_003_Auto1.uasset'
+[2025.12.02-22.40.36:703][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_005] ([1] browsable assets)...
+[2025.12.02-22.40.36:712][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube_005.Cube_005]
+[2025.12.02-22.40.36:712][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_005]
+[2025.12.02-22.40.36:712][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_005" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_005_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.36:723][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_005_Auto1
+[2025.12.02-22.40.36:723][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_005_Auto1462C20EF45795CC59E8B1FAA3001B846.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_005_Auto1.uasset'
+[2025.12.02-22.40.36:724][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_001_projected] ([1] browsable assets)...
+[2025.12.02-22.40.36:732][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_001_projected.Examples_038_001_projected]
+[2025.12.02-22.40.36:732][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_001_projected]
+[2025.12.02-22.40.36:744][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_001_projected_Auto1
+[2025.12.02-22.40.36:744][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_001_projected_Auto179954A144CC8AE8CCD0117AF909EB63E.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_001_projected_Auto1.uasset'
+[2025.12.02-22.40.36:746][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_001_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:754][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_001_projected_002.Examples_038_001_projected_002]
+[2025.12.02-22.40.36:754][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_001_projected_002]
+[2025.12.02-22.40.36:766][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_001_projected_002_Auto1
+[2025.12.02-22.40.36:766][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_001_projected_002_ADD0A1EAE4F12C91B1C19F787E3810E18.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_001_projected_002_Auto1.uasset'
+[2025.12.02-22.40.36:768][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_001_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.36:776][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_001_projected_003.Examples_038_001_projected_003]
+[2025.12.02-22.40.36:776][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_001_projected_003]
+[2025.12.02-22.40.36:788][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_001_projected_003_Auto1
+[2025.12.02-22.40.36:788][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_001_projected_003_A9AC0CA444F966C560015C9B795969313.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_001_projected_003_Auto1.uasset'
+[2025.12.02-22.40.36:789][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_002_projected] ([1] browsable assets)...
+[2025.12.02-22.40.36:798][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_002_projected.Examples_038_002_projected]
+[2025.12.02-22.40.36:798][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_002_projected]
+[2025.12.02-22.40.36:810][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_002_projected_Auto1
+[2025.12.02-22.40.36:810][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_002_projected_Auto1D874CF2B4B4E76ECE5CC1E98482407C7.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_002_projected_Auto1.uasset'
+[2025.12.02-22.40.36:811][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_002_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:819][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_002_projected_001.Examples_038_002_projected_001]
+[2025.12.02-22.40.36:819][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_002_projected_001]
+[2025.12.02-22.40.36:832][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_002_projected_001_Auto1
+[2025.12.02-22.40.36:832][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_002_projected_001_A3C80F2AD4F8D1FFD19C7A9A4F0BAC3AF.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_002_projected_001_Auto1.uasset'
+[2025.12.02-22.40.36:833][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_002_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.36:842][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_002_projected_003.Examples_038_002_projected_003]
+[2025.12.02-22.40.36:842][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_002_projected_003]
+[2025.12.02-22.40.36:853][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_002_projected_003_Auto1
+[2025.12.02-22.40.36:853][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_002_projected_003_AEDFCF8CB4E73B1F5ADC4BD9826546921.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_002_projected_003_Auto1.uasset'
+[2025.12.02-22.40.36:854][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_003_projected] ([1] browsable assets)...
+[2025.12.02-22.40.36:862][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_003_projected.Examples_038_003_projected]
+[2025.12.02-22.40.36:862][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_003_projected]
+[2025.12.02-22.40.36:874][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_003_projected_Auto1
+[2025.12.02-22.40.36:874][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_003_projected_Auto1967B043F4854FADE95987DA94B37322F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_003_projected_Auto1.uasset'
+[2025.12.02-22.40.36:876][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_003_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:888][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_003_projected_001.Examples_038_003_projected_001]
+[2025.12.02-22.40.36:889][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_003_projected_001]
+[2025.12.02-22.40.36:902][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_003_projected_001_Auto1
+[2025.12.02-22.40.36:902][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_003_projected_001_AAED1738C458F8D1C9496C38ACB768B3D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_003_projected_001_Auto1.uasset'
+[2025.12.02-22.40.36:902][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_003_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:912][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_003_projected_002.Examples_038_003_projected_002]
+[2025.12.02-22.40.36:912][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_003_projected_002]
+[2025.12.02-22.40.36:923][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_003_projected_002_Auto1
+[2025.12.02-22.40.36:923][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_003_projected_002_A4BE297324C3375630FF863BA1DDEE083.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_003_projected_002_Auto1.uasset'
+[2025.12.02-22.40.36:924][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_004_projected] ([1] browsable assets)...
+[2025.12.02-22.40.36:933][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_004_projected.Examples_038_004_projected]
+[2025.12.02-22.40.36:933][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_004_projected]
+[2025.12.02-22.40.36:944][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_004_projected_Auto1
+[2025.12.02-22.40.36:944][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_004_projected_Auto1099DCB8D4268BFBE7EE67AACA3D22057.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_004_projected_Auto1.uasset'
+[2025.12.02-22.40.36:945][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_004_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.36:954][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_004_projected_001.Examples_038_004_projected_001]
+[2025.12.02-22.40.36:954][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_004_projected_001]
+[2025.12.02-22.40.36:967][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_004_projected_001_Auto1
+[2025.12.02-22.40.36:967][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_004_projected_001_A4771A57B4130AE44EF817BAD52940FAE.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_004_projected_001_Auto1.uasset'
+[2025.12.02-22.40.36:968][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_004_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.36:977][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_004_projected_002.Examples_038_004_projected_002]
+[2025.12.02-22.40.36:977][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_004_projected_002]
+[2025.12.02-22.40.36:988][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_004_projected_002_Auto1
+[2025.12.02-22.40.36:988][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_004_projected_002_A14743C6144AB2AF3872D5181F0EC7130.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_004_projected_002_Auto1.uasset'
+[2025.12.02-22.40.36:989][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_004_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.36:998][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_004_projected_003.Examples_038_004_projected_003]
+[2025.12.02-22.40.36:998][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_004_projected_003]
+[2025.12.02-22.40.37:011][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_004_projected_003_Auto1
+[2025.12.02-22.40.37:011][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_004_projected_003_ADF7EE34447FF423E4ACBB28FEE2F6EBB.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_004_projected_003_Auto1.uasset'
+[2025.12.02-22.40.37:012][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_005_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.37:021][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_005_projected_001.Examples_038_005_projected_001]
+[2025.12.02-22.40.37:021][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_005_projected_001]
+[2025.12.02-22.40.37:032][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_005_projected_001_Auto1
+[2025.12.02-22.40.37:032][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_005_projected_001_A45C7EF1647BCA2DDA0065EAB13977DF8.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_005_projected_001_Auto1.uasset'
+[2025.12.02-22.40.37:033][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_005_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:043][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_005_projected_002.Examples_038_005_projected_002]
+[2025.12.02-22.40.37:043][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_005_projected_002]
+[2025.12.02-22.40.37:056][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_005_projected_002_Auto1
+[2025.12.02-22.40.37:056][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_005_projected_002_AB229889E45DBA3C579C0B4818B762E0E.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_005_projected_002_Auto1.uasset'
+[2025.12.02-22.40.37:057][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_005_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:066][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_005_projected_003.Examples_038_005_projected_003]
+[2025.12.02-22.40.37:066][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_005_projected_003]
+[2025.12.02-22.40.37:077][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_005_projected_003_Auto1
+[2025.12.02-22.40.37:077][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_005_projected_003_AC2ED6D3A4175E1FEAC2D8F95D144EB11.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_005_projected_003_Auto1.uasset'
+[2025.12.02-22.40.37:078][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_006_projected] ([1] browsable assets)...
+[2025.12.02-22.40.37:087][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_006_projected.Examples_038_006_projected]
+[2025.12.02-22.40.37:087][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_006_projected]
+[2025.12.02-22.40.37:100][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_006_projected_Auto1
+[2025.12.02-22.40.37:100][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_006_projected_Auto1F30EC05548F772105C864BA3D0858A98.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_006_projected_Auto1.uasset'
+[2025.12.02-22.40.37:101][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_006_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:110][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_006_projected_002.Examples_038_006_projected_002]
+[2025.12.02-22.40.37:110][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_006_projected_002]
+[2025.12.02-22.40.37:121][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_006_projected_002_Auto1
+[2025.12.02-22.40.37:122][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_006_projected_002_AF3EB01B04834DEBE3134F7913F57AB5B.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_006_projected_002_Auto1.uasset'
+[2025.12.02-22.40.37:122][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_006_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:131][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_006_projected_003.Examples_038_006_projected_003]
+[2025.12.02-22.40.37:131][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_006_projected_003]
+[2025.12.02-22.40.37:144][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_006_projected_003_Auto1
+[2025.12.02-22.40.37:144][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_006_projected_003_AA08C821C4746830DA706B9A41E8FD416.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_006_projected_003_Auto1.uasset'
+[2025.12.02-22.40.37:145][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_007_projected] ([1] browsable assets)...
+[2025.12.02-22.40.37:154][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_007_projected.Examples_038_007_projected]
+[2025.12.02-22.40.37:154][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_007_projected]
+[2025.12.02-22.40.37:165][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_007_projected_Auto1
+[2025.12.02-22.40.37:165][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_007_projected_Auto13E2FF30044E8DA154DE99B94BEAD97EB.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_007_projected_Auto1.uasset'
+[2025.12.02-22.40.37:167][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_007_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.37:176][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_007_projected_001.Examples_038_007_projected_001]
+[2025.12.02-22.40.37:176][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_007_projected_001]
+[2025.12.02-22.40.37:188][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_007_projected_001_Auto1
+[2025.12.02-22.40.37:188][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_007_projected_001_AF6FF7CB54F0F0161B63680B3A044FD22.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_007_projected_001_Auto1.uasset'
+[2025.12.02-22.40.37:189][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_007_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:198][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_007_projected_003.Examples_038_007_projected_003]
+[2025.12.02-22.40.37:198][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_007_projected_003]
+[2025.12.02-22.40.37:210][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_007_projected_003_Auto1
+[2025.12.02-22.40.37:210][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_007_projected_003_A786A7BAE4BFE723D26B004A3D41812A1.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_007_projected_003_Auto1.uasset'
+[2025.12.02-22.40.37:211][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_projected] ([1] browsable assets)...
+[2025.12.02-22.40.37:219][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_projected.Examples_038_projected]
+[2025.12.02-22.40.37:219][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_projected]
+[2025.12.02-22.40.37:232][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_projected_Auto1
+[2025.12.02-22.40.37:232][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_projected_Auto119784D9641ECCBA7990599BEE38A9B34.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_projected_Auto1.uasset'
+[2025.12.02-22.40.37:232][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.37:242][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_projected_001.Examples_038_projected_001]
+[2025.12.02-22.40.37:242][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_projected_001]
+[2025.12.02-22.40.37:252][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_projected_001_Auto1
+[2025.12.02-22.40.37:252][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_projected_001_Auto17EF9AF1141FA9D0EB224738E261805D3.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_projected_001_Auto1.uasset'
+[2025.12.02-22.40.37:254][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:262][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_projected_002.Examples_038_projected_002]
+[2025.12.02-22.40.37:262][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_projected_002]
+[2025.12.02-22.40.37:275][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_projected_002_Auto1
+[2025.12.02-22.40.37:275][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_projected_002_Auto14AC8088546213EB864D62BBF60C2A9E1.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_projected_002_Auto1.uasset'
+[2025.12.02-22.40.37:276][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Frame] ([1] browsable assets)...
+[2025.12.02-22.40.37:283][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Frame.Frame]
+[2025.12.02-22.40.37:283][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Frame]
+[2025.12.02-22.40.37:283][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Frame" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Frame_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.37:297][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Frame_Auto1
+[2025.12.02-22.40.37:297][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Frame_Auto1023EE9C24A699DE439AB658FCA85CBD2.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Frame_Auto1.uasset'
+[2025.12.02-22.40.37:299][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Frame_001] ([1] browsable assets)...
+[2025.12.02-22.40.37:308][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Frame_001.Frame_001]
+[2025.12.02-22.40.37:308][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Frame_001]
+[2025.12.02-22.40.37:320][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Frame_001_Auto1
+[2025.12.02-22.40.37:320][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Frame_001_Auto1DE9090354687D7048D3E7AA8E1800885.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Frame_001_Auto1.uasset'
+[2025.12.02-22.40.37:321][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Frame_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:330][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Frame_002.Frame_002]
+[2025.12.02-22.40.37:330][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Frame_002]
+[2025.12.02-22.40.37:344][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Frame_002_Auto1
+[2025.12.02-22.40.37:344][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Frame_002_Auto1A41AB72743186DDBC5A40B9306B8351F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Frame_002_Auto1.uasset'
+[2025.12.02-22.40.37:345][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Frame_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:354][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Frame_003.Frame_003]
+[2025.12.02-22.40.37:354][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Frame_003]
+[2025.12.02-22.40.37:366][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Frame_003_Auto1
+[2025.12.02-22.40.37:366][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Frame_003_Auto1DF5D1EF043CD9ED22D51AB8BC0812C2F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Frame_003_Auto1.uasset'
+[2025.12.02-22.40.37:367][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Window_Seal_001] ([1] browsable assets)...
+[2025.12.02-22.40.37:376][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Window_Seal_001.Window_Seal_001]
+[2025.12.02-22.40.37:376][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Window_Seal_001]
+[2025.12.02-22.40.37:388][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Window_Seal_001_Auto1
+[2025.12.02-22.40.37:388][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Window_Seal_001_Auto1AB0837F54A87C974CF5F3F9CDDADAB6F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Window_Seal_001_Auto1.uasset'
+[2025.12.02-22.40.37:389][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Window_Seal_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:397][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Window_Seal_002.Window_Seal_002]
+[2025.12.02-22.40.37:397][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Window_Seal_002]
+[2025.12.02-22.40.37:408][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Window_Seal_002_Auto1
+[2025.12.02-22.40.37:408][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Window_Seal_002_Auto13FD9ED384F0A95A8DA9CB19D17A0C696.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Window_Seal_002_Auto1.uasset'
+[2025.12.02-22.40.37:410][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Window_Seal_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:419][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Window_Seal_003.Window_Seal_003]
+[2025.12.02-22.40.37:419][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Window_Seal_003]
+[2025.12.02-22.40.37:430][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Window_Seal_003_Auto1
+[2025.12.02-22.40.37:430][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Window_Seal_003_Auto1EDC0BD09489898718DCDCFA99DA3CA44.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Window_Seal_003_Auto1.uasset'
+[2025.12.02-22.40.37:431][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038] ([1] browsable assets)...
+[2025.12.02-22.40.37:439][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038.Examples_038]
+[2025.12.02-22.40.37:439][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038]
+[2025.12.02-22.40.37:452][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_Auto1
+[2025.12.02-22.40.37:452][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_Auto1E748DA19464C06727775DD8BCA46732B.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_Auto1.uasset'
+[2025.12.02-22.40.37:453][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:461][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_002.Examples_038_002]
+[2025.12.02-22.40.37:461][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_002]
+[2025.12.02-22.40.37:473][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_002_Auto1
+[2025.12.02-22.40.37:473][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_002_Auto11BDA315D48415640AFAA17949FAB5C59.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_002_Auto1.uasset'
+[2025.12.02-22.40.37:474][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_006] ([1] browsable assets)...
+[2025.12.02-22.40.37:483][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cube_006.Cube_006]
+[2025.12.02-22.40.37:483][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_006]
+[2025.12.02-22.40.37:483][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_006" FILE="../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_006_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.12.02-22.40.37:495][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube_006_Auto1
+[2025.12.02-22.40.37:495][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Cube_006_Auto1CE9FAB7240DF0C5864030BB3400A4DDC.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Cube_006_Auto1.uasset'
+[2025.12.02-22.40.37:495][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_001_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.37:504][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_001_projected_001.Examples_038_001_projected_001]
+[2025.12.02-22.40.37:504][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_001_projected_001]
+[2025.12.02-22.40.37:517][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_001_projected_001_Auto1
+[2025.12.02-22.40.37:517][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_001_projected_001_A43264D714D3FC245E623F3A0CE6DF753.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_001_projected_001_Auto1.uasset'
+[2025.12.02-22.40.37:519][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_002_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.37:527][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_002_projected_002.Examples_038_002_projected_002]
+[2025.12.02-22.40.37:527][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_002_projected_002]
+[2025.12.02-22.40.37:538][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_002_projected_002_Auto1
+[2025.12.02-22.40.37:538][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_002_projected_002_A35B5EA6E4A3B2B0DDFB81AAB4B39C0C7.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_002_projected_002_Auto1.uasset'
+[2025.12.02-22.40.37:540][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_003_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:549][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_003_projected_003.Examples_038_003_projected_003]
+[2025.12.02-22.40.37:549][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_003_projected_003]
+[2025.12.02-22.40.37:560][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_003_projected_003_Auto1
+[2025.12.02-22.40.37:560][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_003_projected_003_AF1C24BE2452631C60CF3E0BDBC43C9C8.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_003_projected_003_Auto1.uasset'
+[2025.12.02-22.40.37:562][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_005_projected] ([1] browsable assets)...
+[2025.12.02-22.40.37:571][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_005_projected.Examples_038_005_projected]
+[2025.12.02-22.40.37:571][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_005_projected]
+[2025.12.02-22.40.37:583][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_005_projected_Auto1
+[2025.12.02-22.40.37:583][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_005_projected_Auto1D3C6B80F477124C00C95F58C595983A3.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_005_projected_Auto1.uasset'
+[2025.12.02-22.40.37:583][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_003] ([1] browsable assets)...
+[2025.12.02-22.40.37:593][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_003.Examples_038_003]
+[2025.12.02-22.40.37:593][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_003]
+[2025.12.02-22.40.37:605][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_003_Auto1
+[2025.12.02-22.40.37:605][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_003_Auto1EAFE4E5543784BC0E2330CA2C2EE40D4.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_003_Auto1.uasset'
+[2025.12.02-22.40.37:606][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_004] ([1] browsable assets)...
+[2025.12.02-22.40.37:615][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_004.Examples_038_004]
+[2025.12.02-22.40.37:615][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_004]
+[2025.12.02-22.40.37:627][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_004_Auto1
+[2025.12.02-22.40.37:627][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_004_Auto1A3BBA6C6403A75799D9B3A8A55481453.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_004_Auto1.uasset'
+[2025.12.02-22.40.37:628][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_005] ([1] browsable assets)...
+[2025.12.02-22.40.37:637][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_005.Examples_038_005]
+[2025.12.02-22.40.37:637][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_005]
+[2025.12.02-22.40.37:648][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_005_Auto1
+[2025.12.02-22.40.37:648][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_005_Auto1147517D74722AEEE4F88AE8A73322CD3.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_005_Auto1.uasset'
+[2025.12.02-22.40.37:649][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_007] ([1] browsable assets)...
+[2025.12.02-22.40.37:659][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_007.Examples_038_007]
+[2025.12.02-22.40.37:659][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_007]
+[2025.12.02-22.40.37:672][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_007_Auto1
+[2025.12.02-22.40.37:672][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_007_Auto17CD921CC4E7060854B8AF58E6E7C82D0.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_007_Auto1.uasset'
+[2025.12.02-22.40.37:673][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_008] ([1] browsable assets)...
+[2025.12.02-22.40.37:681][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_008.Examples_038_008]
+[2025.12.02-22.40.37:681][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_008]
+[2025.12.02-22.40.37:694][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_008_Auto1
+[2025.12.02-22.40.37:694][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_008_Auto14ED5619B4C085814404CF3A47637C48A.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_008_Auto1.uasset'
+[2025.12.02-22.40.37:695][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_009] ([1] browsable assets)...
+[2025.12.02-22.40.37:703][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_009.Examples_038_009]
+[2025.12.02-22.40.37:703][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_009]
+[2025.12.02-22.40.37:717][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_009_Auto1
+[2025.12.02-22.40.37:717][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_009_Auto1F52EFDB24D66E9793601B3A84D50EAAE.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_009_Auto1.uasset'
+[2025.12.02-22.40.37:717][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_010] ([1] browsable assets)...
+[2025.12.02-22.40.37:727][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_010.Examples_038_010]
+[2025.12.02-22.40.37:727][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_010]
+[2025.12.02-22.40.37:738][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_010_Auto1
+[2025.12.02-22.40.37:738][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_010_Auto1A88BCD4D40E9070C79313D8E681F2210.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_010_Auto1.uasset'
+[2025.12.02-22.40.37:740][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_012] ([1] browsable assets)...
+[2025.12.02-22.40.37:864][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_012.Examples_038_012]
+[2025.12.02-22.40.37:864][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_012]
+[2025.12.02-22.40.37:876][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_012_Auto1
+[2025.12.02-22.40.37:876][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_012_Auto17CCCA5294EFC64637C4856907FA70B99.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_012_Auto1.uasset'
+[2025.12.02-22.40.37:877][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_013] ([1] browsable assets)...
+[2025.12.02-22.40.37:885][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_013.Examples_038_013]
+[2025.12.02-22.40.37:885][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_013]
+[2025.12.02-22.40.37:898][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_013_Auto1
+[2025.12.02-22.40.37:898][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_013_Auto11F950CF04FFE966FBCCC28B7C6AF4CED.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_013_Auto1.uasset'
+[2025.12.02-22.40.37:898][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_014] ([1] browsable assets)...
+[2025.12.02-22.40.37:907][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_014.Examples_038_014]
+[2025.12.02-22.40.37:907][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_014]
+[2025.12.02-22.40.37:919][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_014_Auto1
+[2025.12.02-22.40.37:919][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_014_Auto15E56F1704108FECD469909B4AB145D06.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_014_Auto1.uasset'
+[2025.12.02-22.40.37:921][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_015] ([1] browsable assets)...
+[2025.12.02-22.40.37:929][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_015.Examples_038_015]
+[2025.12.02-22.40.37:929][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_015]
+[2025.12.02-22.40.37:940][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_015_Auto1
+[2025.12.02-22.40.37:940][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_015_Auto1DCB11FAE4BA36225DCD24ABC25C4604B.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_015_Auto1.uasset'
+[2025.12.02-22.40.37:942][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_017] ([1] browsable assets)...
+[2025.12.02-22.40.37:949][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_017.Examples_038_017]
+[2025.12.02-22.40.37:949][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_017]
+[2025.12.02-22.40.37:961][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_017_Auto1
+[2025.12.02-22.40.37:961][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_017_Auto1719F7BC740DCB855A53C12AA2BA95F6C.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_017_Auto1.uasset'
+[2025.12.02-22.40.37:962][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_018] ([1] browsable assets)...
+[2025.12.02-22.40.37:971][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_018.Examples_038_018]
+[2025.12.02-22.40.37:971][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_018]
+[2025.12.02-22.40.37:983][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_018_Auto1
+[2025.12.02-22.40.37:983][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_018_Auto11F851BD94C0F06B018F704A7B72BF1C4.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_018_Auto1.uasset'
+[2025.12.02-22.40.37:983][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_019] ([1] browsable assets)...
+[2025.12.02-22.40.37:992][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_019.Examples_038_019]
+[2025.12.02-22.40.37:992][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_019]
+[2025.12.02-22.40.38:004][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_019_Auto1
+[2025.12.02-22.40.38:004][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_019_Auto1DA9260984D05F9ABE53FFCB6DCE448AD.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_019_Auto1.uasset'
+[2025.12.02-22.40.38:004][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_020] ([1] browsable assets)...
+[2025.12.02-22.40.38:014][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_020.Examples_038_020]
+[2025.12.02-22.40.38:014][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_020]
+[2025.12.02-22.40.38:025][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_020_Auto1
+[2025.12.02-22.40.38:025][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_020_Auto19CEBEE2A4258DFBF0CE85EAB05DFD49D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_020_Auto1.uasset'
+[2025.12.02-22.40.38:027][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_022] ([1] browsable assets)...
+[2025.12.02-22.40.38:036][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_022.Examples_038_022]
+[2025.12.02-22.40.38:036][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_022]
+[2025.12.02-22.40.38:047][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_022_Auto1
+[2025.12.02-22.40.38:047][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_022_Auto13996883643E574FF80B9FD986B32B1C0.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_022_Auto1.uasset'
+[2025.12.02-22.40.38:049][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_023] ([1] browsable assets)...
+[2025.12.02-22.40.38:057][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_023.Examples_038_023]
+[2025.12.02-22.40.38:057][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_023]
+[2025.12.02-22.40.38:069][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_023_Auto1
+[2025.12.02-22.40.38:069][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_023_Auto1EE3606FC43309B534611CF85C469CF52.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_023_Auto1.uasset'
+[2025.12.02-22.40.38:071][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_024] ([1] browsable assets)...
+[2025.12.02-22.40.38:080][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_024.Examples_038_024]
+[2025.12.02-22.40.38:080][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_024]
+[2025.12.02-22.40.38:092][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_024_Auto1
+[2025.12.02-22.40.38:092][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_024_Auto1CB22A2FC4A619B80370CA6AC55BF2F94.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_024_Auto1.uasset'
+[2025.12.02-22.40.38:092][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_025] ([1] browsable assets)...
+[2025.12.02-22.40.38:102][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_025.Examples_038_025]
+[2025.12.02-22.40.38:102][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_025]
+[2025.12.02-22.40.38:114][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_025_Auto1
+[2025.12.02-22.40.38:114][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_025_Auto1EFF0D4BB4C3DBF9B7A23389FBD1DE865.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_025_Auto1.uasset'
+[2025.12.02-22.40.38:115][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_027] ([1] browsable assets)...
+[2025.12.02-22.40.38:125][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_027.Examples_038_027]
+[2025.12.02-22.40.38:125][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_027]
+[2025.12.02-22.40.38:137][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_027_Auto1
+[2025.12.02-22.40.38:137][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_027_Auto1ACDCF8BC454365B5D6F79C897BCC7F1F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_027_Auto1.uasset'
+[2025.12.02-22.40.38:138][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_028] ([1] browsable assets)...
+[2025.12.02-22.40.38:146][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_028.Examples_038_028]
+[2025.12.02-22.40.38:146][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_028]
+[2025.12.02-22.40.38:158][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_028_Auto1
+[2025.12.02-22.40.38:158][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_028_Auto13ABC6AFC4B2351189C77ABADDFEB2945.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_028_Auto1.uasset'
+[2025.12.02-22.40.38:159][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_029] ([1] browsable assets)...
+[2025.12.02-22.40.38:167][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_029.Examples_038_029]
+[2025.12.02-22.40.38:167][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_029]
+[2025.12.02-22.40.38:179][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_029_Auto1
+[2025.12.02-22.40.38:179][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_029_Auto1925D69DB414791020808E2B1B53DD0A1.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_029_Auto1.uasset'
+[2025.12.02-22.40.38:180][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_030] ([1] browsable assets)...
+[2025.12.02-22.40.38:188][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_030.Examples_038_030]
+[2025.12.02-22.40.38:188][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_030]
+[2025.12.02-22.40.38:199][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_030_Auto1
+[2025.12.02-22.40.38:199][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_030_Auto16572F6794D2E946BB71DD19F89F92C8A.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_030_Auto1.uasset'
+[2025.12.02-22.40.38:201][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_006_projected_001] ([1] browsable assets)...
+[2025.12.02-22.40.38:210][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_006_projected_001.Examples_038_006_projected_001]
+[2025.12.02-22.40.38:210][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_006_projected_001]
+[2025.12.02-22.40.38:220][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_006_projected_001_Auto1
+[2025.12.02-22.40.38:222][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_006_projected_001_A7A305F304BA1E800453C1FB608EDEF8C.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_006_projected_001_Auto1.uasset'
+[2025.12.02-22.40.38:223][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_007_projected_002] ([1] browsable assets)...
+[2025.12.02-22.40.38:231][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_007_projected_002.Examples_038_007_projected_002]
+[2025.12.02-22.40.38:231][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_007_projected_002]
+[2025.12.02-22.40.38:242][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_007_projected_002_Auto1
+[2025.12.02-22.40.38:243][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_007_projected_002_A33DB6EA24E9051F5BD869F8B964385C5.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_007_projected_002_Auto1.uasset'
+[2025.12.02-22.40.38:244][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_projected_003] ([1] browsable assets)...
+[2025.12.02-22.40.38:252][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_projected_003.Examples_038_projected_003]
+[2025.12.02-22.40.38:252][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_projected_003]
+[2025.12.02-22.40.38:264][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_projected_003_Auto1
+[2025.12.02-22.40.38:264][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_projected_003_Auto1CCFE852A45BB55D6AE2820858C603570.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_projected_003_Auto1.uasset'
+[2025.12.02-22.40.38:265][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/stairs_002_structure] ([1] browsable assets)...
+[2025.12.02-22.40.38:274][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/stairs_002_structure.stairs_002_structure]
+[2025.12.02-22.40.38:274][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/stairs_002_structure]
+[2025.12.02-22.40.38:307][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/stairs_002_structure_Auto1
+[2025.12.02-22.40.38:307][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/stairs_002_structure_Auto13562BC394B68B332C1CDDAAF1AD7410D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/stairs_002_structure_Auto1.uasset'
+[2025.12.02-22.40.38:307][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sphere_001] ([1] browsable assets)...
+[2025.12.02-22.40.38:316][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Sphere_001.Sphere_001]
+[2025.12.02-22.40.38:316][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sphere_001]
+[2025.12.02-22.40.38:335][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sphere_001_Auto1
+[2025.12.02-22.40.38:335][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Sphere_001_Auto1E1021ACF4BFBEB30837DB787C6F250F3.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Sphere_001_Auto1.uasset'
+[2025.12.02-22.40.38:336][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bottom_Frame] ([1] browsable assets)...
+[2025.12.02-22.40.38:344][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Bottom_Frame.Bottom_Frame]
+[2025.12.02-22.40.38:344][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bottom_Frame]
+[2025.12.02-22.40.38:359][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bottom_Frame_Auto1
+[2025.12.02-22.40.38:359][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Bottom_Frame_Auto1CB8D333443DDB24919F5279259985B22.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Bottom_Frame_Auto1.uasset'
+[2025.12.02-22.40.38:360][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Window_Seal] ([1] browsable assets)...
+[2025.12.02-22.40.38:368][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Window_Seal.Window_Seal]
+[2025.12.02-22.40.38:368][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Window_Seal]
+[2025.12.02-22.40.38:381][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Window_Seal_Auto1
+[2025.12.02-22.40.38:381][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Window_Seal_Auto1EB1B0543457B4F7D73DF22A86E8687DA.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Window_Seal_Auto1.uasset'
+[2025.12.02-22.40.38:381][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_001] ([1] browsable assets)...
+[2025.12.02-22.40.38:390][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_001.Examples_038_001]
+[2025.12.02-22.40.38:390][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_001]
+[2025.12.02-22.40.38:402][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_001_Auto1
+[2025.12.02-22.40.38:402][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_001_Auto1C91B9ABA44FFF81104BC1EADBB0FA1D5.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_001_Auto1.uasset'
+[2025.12.02-22.40.38:403][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bottom_Frame_001] ([1] browsable assets)...
+[2025.12.02-22.40.38:411][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Bottom_Frame_001.Bottom_Frame_001]
+[2025.12.02-22.40.38:411][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bottom_Frame_001]
+[2025.12.02-22.40.38:425][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bottom_Frame_001_Auto1
+[2025.12.02-22.40.38:425][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Bottom_Frame_001_Auto199A98F3142579A74BA160EAE4E795A8F.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Bottom_Frame_001_Auto1.uasset'
+[2025.12.02-22.40.38:427][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bottom_Frame_003] ([1] browsable assets)...
+[2025.12.02-22.40.38:436][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Bottom_Frame_003.Bottom_Frame_003]
+[2025.12.02-22.40.38:436][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bottom_Frame_003]
+[2025.12.02-22.40.38:449][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bottom_Frame_003_Auto1
+[2025.12.02-22.40.38:449][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Bottom_Frame_003_Auto131DC553D458F5B6630B685AFF15CA24D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Bottom_Frame_003_Auto1.uasset'
+[2025.12.02-22.40.38:450][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Top_Frame] ([1] browsable assets)...
+[2025.12.02-22.40.38:459][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Top_Frame.Top_Frame]
+[2025.12.02-22.40.38:459][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Top_Frame]
+[2025.12.02-22.40.38:472][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Top_Frame_Auto1
+[2025.12.02-22.40.38:472][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Top_Frame_Auto1BF2CBA5F43E50907E911D8AD5C775C0C.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Top_Frame_Auto1.uasset'
+[2025.12.02-22.40.38:473][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Top_Frame_001] ([1] browsable assets)...
+[2025.12.02-22.40.38:482][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Top_Frame_001.Top_Frame_001]
+[2025.12.02-22.40.38:482][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Top_Frame_001]
+[2025.12.02-22.40.38:494][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Top_Frame_001_Auto1
+[2025.12.02-22.40.38:494][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Top_Frame_001_Auto1DF8F8B62422FFE32420480AC7882D317.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Top_Frame_001_Auto1.uasset'
+[2025.12.02-22.40.38:495][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Top_Frame_002] ([1] browsable assets)...
+[2025.12.02-22.40.38:504][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Top_Frame_002.Top_Frame_002]
+[2025.12.02-22.40.38:504][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Top_Frame_002]
+[2025.12.02-22.40.38:516][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Top_Frame_002_Auto1
+[2025.12.02-22.40.38:516][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Top_Frame_002_Auto17B71318747013FE91774A5A0B45B6D8B.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Top_Frame_002_Auto1.uasset'
+[2025.12.02-22.40.38:518][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_006] ([1] browsable assets)...
+[2025.12.02-22.40.38:527][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_006.Examples_038_006]
+[2025.12.02-22.40.38:527][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_006]
+[2025.12.02-22.40.38:538][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_006_Auto1
+[2025.12.02-22.40.38:538][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_006_Auto16D34C01142A33EC8E95BB696C7558723.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_006_Auto1.uasset'
+[2025.12.02-22.40.38:539][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/stairs_002_steps] ([1] browsable assets)...
+[2025.12.02-22.40.38:547][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/stairs_002_steps.stairs_002_steps]
+[2025.12.02-22.40.38:547][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/stairs_002_steps]
+[2025.12.02-22.40.38:630][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/stairs_002_steps_Auto1
+[2025.12.02-22.40.38:630][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/stairs_002_steps_Auto19CEA58984F5C9A4A98D63081038CA750.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/stairs_002_steps_Auto1.uasset'
+[2025.12.02-22.40.38:631][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_011] ([1] browsable assets)...
+[2025.12.02-22.40.38:640][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_011.Examples_038_011]
+[2025.12.02-22.40.38:640][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_011]
+[2025.12.02-22.40.38:651][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_011_Auto1
+[2025.12.02-22.40.38:651][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_011_Auto1411BB9F84A0EA8757F90169C550301BB.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_011_Auto1.uasset'
+[2025.12.02-22.40.38:653][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_016] ([1] browsable assets)...
+[2025.12.02-22.40.38:661][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_016.Examples_038_016]
+[2025.12.02-22.40.38:661][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_016]
+[2025.12.02-22.40.38:673][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_016_Auto1
+[2025.12.02-22.40.38:673][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_016_Auto1B2922A954D79522F276019961838D9D3.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_016_Auto1.uasset'
+[2025.12.02-22.40.38:674][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_021] ([1] browsable assets)...
+[2025.12.02-22.40.38:682][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_021.Examples_038_021]
+[2025.12.02-22.40.38:682][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_021]
+[2025.12.02-22.40.38:695][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_021_Auto1
+[2025.12.02-22.40.38:695][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_021_Auto1FE98BC0B4C816011443D6992634F62C6.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_021_Auto1.uasset'
+[2025.12.02-22.40.38:695][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_026] ([1] browsable assets)...
+[2025.12.02-22.40.38:703][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_026.Examples_038_026]
+[2025.12.02-22.40.38:703][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_026]
+[2025.12.02-22.40.38:716][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_026_Auto1
+[2025.12.02-22.40.38:716][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_026_Auto14EC193EB461A948DF7973ABCAA97DAA5.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_026_Auto1.uasset'
+[2025.12.02-22.40.38:717][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Examples_038_031] ([1] browsable assets)...
+[2025.12.02-22.40.38:727][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Examples_038_031.Examples_038_031]
+[2025.12.02-22.40.38:727][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Examples_038_031]
+[2025.12.02-22.40.38:738][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Examples_038_031_Auto1
+[2025.12.02-22.40.38:738][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Examples_038_031_Auto1AB4784BA4003F259CF54748322CB9A8A.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Examples_038_031_Auto1.uasset'
+[2025.12.02-22.40.38:739][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bottom_Frame_002] ([1] browsable assets)...
+[2025.12.02-22.40.38:749][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Bottom_Frame_002.Bottom_Frame_002]
+[2025.12.02-22.40.38:749][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bottom_Frame_002]
+[2025.12.02-22.40.38:763][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bottom_Frame_002_Auto1
+[2025.12.02-22.40.38:763][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Bottom_Frame_002_Auto1D272E8554920F81057D56A83325BCC1D.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Bottom_Frame_002_Auto1.uasset'
+[2025.12.02-22.40.38:764][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Top_Frame_003] ([1] browsable assets)...
+[2025.12.02-22.40.38:772][622]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Top_Frame_003.Top_Frame_003]
+[2025.12.02-22.40.38:772][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Top_Frame_003]
+[2025.12.02-22.40.38:784][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Top_Frame_003_Auto1
+[2025.12.02-22.40.38:784][622]LogSavePackage: Moving '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Top_Frame_003_Auto1811362434C9F8FE69C32C38A094C6F8E.tmp' to '../../../../../../Users/Gaming PC/Documents/GitHub/The-Lighthouse/TheLighthouse/Saved/Autosaves/Game/Top_Frame_003_Auto1.uasset'
+[2025.12.02-22.40.38:784][622]LogFileHelpers: Auto-saving content packages took 2.693
+[2025.12.02-22.41.34:483][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.617432
+[2025.12.02-22.41.35:483][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.02-22.41.35:483][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.284729, Update Interval: 325.727112
